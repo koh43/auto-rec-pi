@@ -1,0 +1,10 @@
+cffi==1.17.1
+font-roboto==0.0.1
+fonts==0.0.3
+gpiod==2.3.0
+gpiodevice==0.0.5
+numpy==2.3.2
+pycparser==2.22
+sounddevice==0.5.2
+spidev==3.7
+st7789==1.0.1
